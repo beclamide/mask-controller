@@ -1,0 +1,14 @@
+{
+  "name": "mask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Beclamide",
+  "license": "MIT",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-14",
+    "readline": "^1.3.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
